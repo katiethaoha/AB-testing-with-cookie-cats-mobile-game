@@ -1,5 +1,6 @@
 # AB-testing-with-cookie-cats-mobile-game
 Analyze an A/B test from the popular puzzle game, Cookie Cats
+**View my project at [this link](https://nbviewer.jupyter.org/github/katiethaoha/Mobile-games-A-B-testing-with-cookie-cats/blob/master/AB-testing-notebook.ipynb)**
 
 Cookie Cats is a hugely popular puzzle game developed by Tactile Entertainment.  It's a classic "connect three" style puzzle game where player must connect tiles of the same color in order to clear the board and win the level. It also features singing cats. Check out this short demo:
 https://youtu.be/GaP5f0jVTWE
